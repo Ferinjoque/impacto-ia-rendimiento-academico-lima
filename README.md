@@ -32,7 +32,6 @@
 ## Instalación
 1. Clona el repositorio:  
    ```
-   bash
    git clone https://github.com/Ferinjoque/impacto-ia-rendimiento-academico-lima.git
    cd impacto-ia-rendimiento-academico-lima
    ```
