@@ -71,4 +71,4 @@
 - **Equipo de investigación**: Erick Huamanchumo, Alessandro Juarez, Ana Paula Guzmán y Anaís Huaman.
 
 ## Licencia
-Este proyecto está bajo la GNU General Public License v3.0.
+Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
